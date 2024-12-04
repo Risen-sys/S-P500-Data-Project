@@ -1,1 +1,1 @@
-# S-P500-Data-Project
+# S&P500-Data-Project
